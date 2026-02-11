@@ -1,0 +1,15 @@
+/*TODO 背景を黄緑にする*/
+body {
+  background-color: #00ff04;
+  color: #5601ff;
+  width: 380px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button {
+  padding: 5px 20px;
+  background-color: #f6ff00;
+  color: #ff0101;
+  border-style: none;
+}
